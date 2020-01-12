@@ -1,6 +1,6 @@
 # Dependencies
 markdown:         kramdown
-remote_theme:     floralcustom/floralcustom.github.io
+#remote_theme:     floralcustom/floralcustom.github.io
 highlighter:      rouge
 
 # Setup
