@@ -1,3 +1,17 @@
+---
+layout : post
+title : "Git: git commands"
+date : 2020-02-09
+category :
+  - Other
+elements:
+  - git
+  - github
+  - commands
+comments : true
+
+---
+
 # Git Commands
 
 # 🚚 Run Locally
@@ -14,7 +28,7 @@ Config check, use:
     git config --list
     git config user.name
     git config --show-origin user.name //최초 설정 확인
-    
+
 
 End of line :
 
