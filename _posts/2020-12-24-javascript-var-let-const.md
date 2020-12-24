@@ -3,7 +3,7 @@ layout : post
 title : "Javascript: var, let, const"
 date : 2020-12-24
 category :
-  - Other
+  - Javascript
 elements:
   - javascript
   - var
