@@ -24,9 +24,10 @@ comments : true
 찾아가는 길이 엄청 어렵지는 않지만 시장을 지나서 방문하는터라.. 좁은 골목의 사람과 차들에게 영혼을 뺏기고 도착하게 된다.  
 네이버 지도를 믿고 힘차게 걸어가면 라멘다이아 뒷편에 도착하니 유의해야한다.
 
-![라멘다이아입구](https://imgur.com/a/lHB8jB0)   
-매장 자체가 큰 편은 아니다 내부에는 7~8명 정도가 앉을 수 있는 규모이고 오픈 시간 정도는 찾아봐라. 링크도 걸어놨으니.. 코로나니 뭐니 해서 혹시나 영업 안하실까봐 전화하고 간다.(가끔 손님이 있으면 전화 안받으시니 인스타를 확인하는 것도 방법이다.)
-
 <center>
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/lHB8jB0" data-context="false" ><a href="//imgur.com/a/lHB8jB0"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-</center>
+</center>   
+
+[라멘다이아입구](https://imgur.com/U9BDxXZ)
+매장 자체가 큰 편은 아니다 내부에는 7~8명 정도가 앉을 수 있는 규모이고 오픈 시간 정도는 찾아봐라. 링크도 걸어놨으니.. 코로나니 뭐니 해서 혹시나 영업 안하실까봐 전화하고 간다.(가끔 손님이 있으면 전화 안받으시니 인스타를 확인하는 것도 방법이다.)
+
