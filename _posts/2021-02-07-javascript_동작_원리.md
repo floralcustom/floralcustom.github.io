@@ -1,6 +1,6 @@
 ---
 layout : post
-title : "Javascript 동작 원리"
+title : "Javascript: 동작 원리"
 date : 2021-02-07
 category :
   - Javascript
