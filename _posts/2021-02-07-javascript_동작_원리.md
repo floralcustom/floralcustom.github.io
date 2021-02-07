@@ -5,10 +5,15 @@ date : 2021-02-07
 category :
   - Javascript
 elements:
+  - call Stack
+  - callback queue
+  - v8
+  - event loop
+tags:
   - Call Stack
   - Callback Queue
-  - V8
-  - Event Loop
+  - v8
+  - event loop
 comments : true
 
 ---
