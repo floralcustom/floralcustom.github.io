@@ -38,3 +38,6 @@ sidebar_home_link:  true
 # Custom vars
 github:
   repo:            https://github.com/floralcustom
+
+disqus:
+  shortname: my-disqus-shortname
